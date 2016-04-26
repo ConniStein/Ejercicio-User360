@@ -99,3 +99,32 @@
 .pasos{
 	margin:30px;
 }
+
+/*FIN SECCIÓN "LO QUIERO ¿QUE HAGO?"*/
+
+
+/*COMIENZO PAGINA "CONTACTO"*/
+.background-contacto{
+	background-image: url(../image/large.jpg);
+	background-size: cover;
+	height: 650px;
+}
+
+.caja-contacto{
+	border-top: 10px solid #60c3ff;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	background-color: #FFF;
+	margin-top: 100px;
+	margin-left: 300px;
+}
+
+.formulario{
+
+
+.cajavacia{
+	height:20px;
+	width: 100px;
+	border:1px solid black;
+}
