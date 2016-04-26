@@ -6,9 +6,16 @@
 	background-image: url(../image/large.jpg);
 	background-repeat: no-repeat;
 	height:100vh;
+	width: 1280px;
+}
+
+.opacity {
+	opacity: 0.5;
+	background-color: grey;
+	height:100vh;
 	width: 100%;
-	opacity: black 0.8;
-	
+	margin-left: 0;
+	margin-right: 10px;
 }
 
 .logo img {
@@ -22,22 +29,23 @@
 	list-style-type: none;
 	display: inline-table;
 	padding-left: 20px;
-	padding-top: 40px;
+	padding-top: 45px;
 }
 
 .listas li a {
-	color: black;
+	color: white;
 	text-decoration: none;
 	font-size: 16px;
 }
 
 .texto-central h1 {
 	text-align: center;
-	color: black;
+	color: white;
 	font-family: Arial;
 	font-size: 40px;
 	padding-left: 20%;
 	padding-right: 20%;
+	padding-top: 10%;
 	
 }
 
@@ -79,11 +87,6 @@
 	border-style: none;
 	text-decoration: none;
 }
-
-
-
-
-
 
 .central h3 {
 	color: #0080FF;
