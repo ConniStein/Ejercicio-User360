@@ -1,0 +1,101 @@
+/*CLASES COMUNES - COLORES DE TEXTO Y FONTS*/
+.text-blue{
+	color: #60c3ff;
+}
+
+.text-darkblue{
+	color: #0f5e7c;
+}
+
+.text-gray{
+	color: #2b2b2b;
+}
+
+*{
+	font-family: sans-serif;
+}
+
+/*COMIENZO SECCION "EJEMPLO"*/
+
+.caja1{
+	margin:20px;
+}
+
+.texto-ejemplo{
+	margin: 30px 0px;
+	text-align: center;
+}
+
+.text-light{
+	font-weight: lighter;
+}
+
+.img-user{
+	width: 50%;
+	height: 50%;
+}
+
+.flecha{
+	margin-left: 200px;
+	margin-top: 15px;
+}
+
+/*FIN SECCION "EJEMPLO"*/
+
+/*COMIENZO SECCION "LO QUIERO ¿QUE HAGO?"*/
+.caja2{
+	border:1px 0px solid #9c9c9c;
+}
+
+.img-transparente{
+	width: 500px;
+	height: 450px;
+	opacity: 0.8;
+	margin-left:40px;
+	position: relative;
+}
+
+.circulo-azul{
+	background-color: #60c3ff;
+	border-radius: 50%;
+	border:1px solid transparent;
+	height: 50px;
+	width: 50px;
+	padding:10px;
+	margin-bottom: 30px;
+	position: absolute;
+	right: 590px;
+}
+
+.circulo1{
+	margin-top: 60px;
+}
+
+.circulo2{
+	margin-top: 170px;
+}
+
+.circulo3{
+	margin-top: 300px;
+}
+
+.icon{
+	color:#FFF;
+	font-size: 24px;
+}
+
+.separador{
+	position: absolute;
+	margin-top: 400px;
+	right: 580px;
+	width: 80px;
+	height: 90px;
+}
+
+.text-loquiero{
+	margin-bottom: 20px;
+}
+
+.pasos{
+	margin:30px;
+}
