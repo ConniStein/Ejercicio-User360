@@ -122,6 +122,8 @@
 }
 
 .formulario{
+	display: inline-block;
+}
 
 
 .cajavacia{
@@ -266,3 +268,14 @@
 	margin-top: 14%;
 	text-align: center;
 }
+
+.subrayado{
+	text-decoration: line-through;
+	display: inline-block;
+}
+
+.right{
+	margin-left: 450px;
+	padding-bottom: 30px;
+}
+
